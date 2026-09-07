@@ -6,7 +6,7 @@ Chillout|http://listen.181fm.com/181-chilled_128k.mp3
 Blues|http://listen.181fm.com/181-blues_128k.mp3
 Jazz|http://listen.181fm.com/181-jazzmix_128k.mp3
 Classic Rock|http://listen.181fm.com/181-eagle_128k.mp3
-Rock|http://listen.181fm.com/181-rock_128k.mp3
+Slowradio|http://stream1.slowradio.com
 80s|http://listen.181fm.com/181-awesome80s_128k.mp3
 90s|http://listen.181fm.com/181-star90s_128k.mp3
 70s|http://listen.181fm.com/181-70s_128k.mp3
